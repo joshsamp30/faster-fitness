@@ -1,0 +1,2445 @@
+{
+  "source": "User-copied public Google reviews for Faster Fitness, expanded with Google “More” opened where available.",
+  "sourceFile": "/Users/joshsample/.codex/attachments/fb565ce6-271a-470a-9a85-7c6d92a2f854/pasted-text.txt",
+  "generatedAt": "2026-05-30T21:45:22.732Z",
+  "totalReviewsParsed": 137,
+  "categoryCounts": {
+    "coaching_support": 103,
+    "beginner_confidence": 11,
+    "workout_energy": 88,
+    "community_culture": 68,
+    "results_transformation": 64,
+    "accountability_consistency": 31,
+    "classes_schedule": 57,
+    "service_issue_negative": 1,
+    "challenge_nutrition": 41,
+    "general_praise": 4
+  },
+  "pageRecommendations": {
+    "home": [
+      "selma-barimac",
+      "caroline-rogers",
+      "alexis-harman"
+    ],
+    "about": [
+      "garima-gupta",
+      "katie-fasching-partney",
+      "deni-trone"
+    ],
+    "training": [
+      "brittani-wynn",
+      "haley-renee",
+      "caroline-rogers"
+    ],
+    "results": [
+      "zachary-davis",
+      "peter-birk",
+      "heather-klefisch"
+    ],
+    "memberships": [
+      "katie-fasching-partney",
+      "alexis-harman",
+      "margie-mitchell"
+    ]
+  },
+  "categories": {
+    "coaching_support": "Mentions trainers, coaches, form, motivation, instruction, encouragement, or personal support.",
+    "community_culture": "Mentions community, Faster Fam, welcoming environment, family, people, or atmosphere.",
+    "results_transformation": "Mentions body composition, weight loss, strength, progress, transformation, or improved shape.",
+    "accountability_consistency": "Mentions consistency, motivation, schedule, routine, accountability, or sticking with training.",
+    "beginner_confidence": "Mentions anxiety, intimidation, starting out, never lifting, beginner needs, or restarting fitness.",
+    "challenge_nutrition": "Mentions nutrition, diet, meal support, challenges, or coaching around food.",
+    "classes_schedule": "Mentions classes, convenient times, scheduling, quick workouts, or class format.",
+    "workout_energy": "Mentions workouts, energy, cardio, strength, challenge, fun, or being pushed.",
+    "general_praise": "Positive review without a stronger thematic signal.",
+    "service_issue_negative": "Negative/service issue review; keep for internal awareness, do not use as marketing proof."
+  },
+  "reviews": [
+    {
+      "id": "selma-barimac",
+      "name": "Selma Barimac",
+      "initials": "SB",
+      "date": "6 months ago",
+      "source": "Google review",
+      "profilePhoto": "assets/reviewers/selma-barimac.png",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "beginner_confidence",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Absolutely love this place! I used to be the anxious girl at the gym — never confident walking in and unsure about my workouts. At Faster Fitness, all of the trainers are amazing and so encouraging. They give great feedback, push you to do your best, and always make you feel good about yourself."
+    },
+    {
+      "id": "harsh-aswani",
+      "name": "Harsh Aswani",
+      "initials": "HA",
+      "date": "9 months ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Love working out at Faster Fitness!! The workouts are designed to push one’ limits and burning those extra calories. The trainers are very professional and the gym has a great community. Absolutely recommended!"
+    },
+    {
+      "id": "caroline-rogers",
+      "name": "Caroline Rogers",
+      "initials": "CR",
+      "date": "11 months ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "results_transformation",
+        "accountability_consistency",
+        "beginner_confidence",
+        "classes_schedule",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Faster fitness has been such a fun and great way to get back into shape and incorporate exercise in my every day life. If anyone knows me, they no I can lack motivation sometimes and sticking to a schedule and faster fitness makes that easy! The trainers are the best part and so extremely helpful, I don’t have to come up with anything, I just show up and get everything provided to me. The trainers help keep me on track and provide alternatives to anything I need. Truly couldn’t have found a better place for my fitness journey!"
+    },
+    {
+      "id": "brittani-wynn",
+      "name": "Brittani Wynn",
+      "initials": "BW",
+      "date": "a year ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "results_transformation",
+        "accountability_consistency",
+        "beginner_confidence",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Faster Fitness has been a game-changer for me! The coaches are energetic and supportive, always encouraging you to push your limits safely. With my bad knees and restarting my fitness journey, their guidance on form and modifications has been invaluable. The workouts are well-designed, the equipment is top-notch, and their user-friendly apps make scheduling a breeze. The welcoming community adds to the positive experience. If you’re looking to reignite your fitness routine, I highly recommend Faster Fitness!"
+    },
+    {
+      "id": "haley-renee",
+      "name": "haley renee",
+      "initials": "HR",
+      "date": "a year ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "results_transformation",
+        "beginner_confidence",
+        "classes_schedule",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "The best gym hands down!! I was new to working out in a gym and did a lot of research on local gyms (and trialed about all of them) and this is by far my favorite place! The workouts are made for you and the trainers are great! The classes are a mix of everything (weight lifting, cardio, etc) and have real results. The place is clean and energy is safe and positive. I personally make the long drive to and from because it’s the best place i’ve came across"
+    },
+    {
+      "id": "tj-red",
+      "name": "TJ Red",
+      "initials": "TR",
+      "date": "6 months ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": null,
+      "sentiment": "negative",
+      "categories": [
+        "classes_schedule",
+        "service_issue_negative"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Don’t answered calls and emails which are a great importance for clients and business to establish a healthy relationship. I have two more classes, will not return. Going with local gym in my area!"
+    },
+    {
+      "id": "alexis-harman",
+      "name": "Alexis Harman",
+      "initials": "AH",
+      "date": "a year ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "results_transformation",
+        "accountability_consistency",
+        "classes_schedule",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Faster Fitness is the only workout program I’ve ever stuck with for more than 6 months! I get a great workout every time and always feels accomplished. Plus, I’m in the best shape of my life!"
+    },
+    {
+      "id": "erika-cockerham",
+      "name": "Erika Cockerham",
+      "initials": "EC",
+      "date": "2 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Faster Fitness is AMAZING! Every instructor there is so kind, motivating, caring, and inspiring. They’re all there to cheer everyone on and help each person reach their goals. It’s the only gym I’ve ever been to whose ads aren’t bait and switch ads and who make it affordable for everyone to be able to work out. I’m so thankful for everyone at Faster Fitness and highly recommend them to everyone!"
+    },
+    {
+      "id": "a-k",
+      "name": "A K",
+      "initials": "AK",
+      "date": "5 months ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "community_culture",
+        "beginner_confidence"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Friendly staff. Very helpful when getting started. I was intimidated having never lifted weights before and they helped me figure out what worked best for me."
+    },
+    {
+      "id": "katie-fasching-partney",
+      "name": "Katie Fasching-Partney",
+      "initials": "KF",
+      "date": "9 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "results_transformation",
+        "accountability_consistency",
+        "classes_schedule"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "I LOVE Faster Fitness and the community they've created! I've been working out there two days a week for over a year and can't give them enough praise. Their quick and convenient classes give me options for my hectic schedule. I enjoy working out with all fitness levels in the small group fitness classes, while they're still tailored to meet my specific fitness needs. These guys are top notch and always available to give advice and support to help me accomplish my goals. I'm the leanest, strongest and most confident I've ever been! Thanks Greg and Marshall, you guys are amazing!"
+    },
+    {
+      "id": "zachary-davis",
+      "name": "Zachary Davis",
+      "initials": "ZD",
+      "date": "6 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "results_transformation",
+        "challenge_nutrition",
+        "classes_schedule",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "I started with the Faster family in January of 2019 with a 6 week challenge. I was able to lose 7.2% body fat and an additional 15 pounds in that time! The workouts are intimate, challenging, and fun. The trainers are also truly invested in each members’ development and can modify workouts, assist with meal plans, and set goals to suit each individual. I have now been a member for nearly 6 months and am beyond happy that I joined. Fast Fitness is a way of life for me and I am healthier and happier than I have ever been. Well worth the investment!"
+    },
+    {
+      "id": "deni-trone",
+      "name": "Deni Trone",
+      "initials": "DT",
+      "date": "11 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "results_transformation",
+        "classes_schedule"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "I love Faster Fitness! The results I've seen by working out just three days a week top any results I've had in the past working out at least 5 days a week for an hour at a time. Marshall and Brad are awesome trainers who truly get to know what you specifically need to focus on when working out or making modifications to benefit you personally. The small group sessions really lets the trainers focus on each person. Being around a great environment where everyone is as passionate about working out as I am is motivating inside as well as outside the gym. It is much easier to maintain the healthy lifestyle outside the gym with such a supporting staff and fellow gym members."
+    },
+    {
+      "id": "jonathan-bray",
+      "name": "Jonathan Bray",
+      "initials": "JB",
+      "date": "4 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "results_transformation",
+        "challenge_nutrition",
+        "classes_schedule",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Faster Fitness is fantastic!! Words cannot fully describe how much I enjoy this gym! From the dynamic fitness approach to the coaches, the classes, the music - the overall vibe is unlike any other gym. I've lost over 8% body fat in 7 months and I owe it to FF. If you're looking for a gym to challenge you, get you in the best shape of your life and also have some fun while doing it - this is your gym!"
+    },
+    {
+      "id": "garima-gupta",
+      "name": "Garima Gupta",
+      "initials": "GG",
+      "date": "6 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "I joined Faster Fitness 2 months ago after trying a few other places. It is a great place with great workouts and awesome instructors who make you feel welcome and part of the family no matter who you are. The trainers work with you whatever your goals are and are very encouraging. I am glad to be part of this community."
+    },
+    {
+      "id": "anthony-hultz",
+      "name": "anthony hultz",
+      "initials": "AH",
+      "date": "9 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "results_transformation",
+        "beginner_confidence"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "I have been going to Faster Fitness for over a year now and have had great results. I am in the best shape I have ever been in! I am currently enrolled in the Group Personal Training and even though you are working out in a group it still feels very personal. Marshall, Greg and Rob are always willing to answer my questions and point me in the right direction towards my fitness goals. I would recommend them to anyone that is just starting their journey or to someone that needs more direction to help break through plateaus. This place is top notch!"
+    },
+    {
+      "id": "robyn-husa",
+      "name": "Robyn Husa",
+      "initials": "RH",
+      "date": "8 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "results_transformation",
+        "accountability_consistency",
+        "challenge_nutrition",
+        "classes_schedule",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "I joined Faster Fitness for a 6-Week Challenge and had an amazing experience. Every class has an amazing combination of cardio and strength training workouts led by very knowledgeable and approachable trainers, who enthusiastically work with you (regardless of your skill level) and push you to be better. There is a good range of available times for group training sessions, so I enjoyed the flexibility of being able to go before or after work and on the weekends. Also, the nutritional information sent each week is a great bonus that really helps get your health on track. The only caveat to this great program is the price - way more a month than your average gym membership. However, you see results. So if you can afford it, it's worth it."
+    },
+    {
+      "id": "fernando-molina",
+      "name": "Fernando Molina",
+      "initials": "FM",
+      "date": "8 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "results_transformation",
+        "challenge_nutrition",
+        "classes_schedule"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "I was told about Faster Fitness by a friend who is currently an active member and had done the 6 week challenge before and she showed me the results and I was immediately interested. I do not like going to the gym by myself because I don't know enough about lifting weights and I never really saw any results. Faster Fitness's 6 Week challenge provides you with weekly meal plans and daily newsletter with different lessons about different topics (nutrition, excercice, etc). What i loved about Faster Fitness are the relatively small group classes and the attention that the trainers there give you at each class. I followed the meal plan to a tee and went to every single class that i signed up for (4 times a week) and the results were amazing. I lost 13. 7lbs of body fat and lost 7% body fat. I am hooked, especially after seeing the results! I recommend this to anyone who is trying to improve their lifestyle and their image. Great place and great people!"
+    },
+    {
+      "id": "laura-nieder",
+      "name": "Laura Nieder",
+      "initials": "LN",
+      "date": "8 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "results_transformation",
+        "challenge_nutrition",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "I have been a member of Faster Fitness for the past 5 years and it just keeps getting better and better! I have never been stronger, and I couldn't imagine my life without my Faster Fitness workouts! The trainers are AMAZING and the workouts continue to motivate me to be my best self. Anybody who is looking to be healthier, stronger, leaner, and more confident can definitely benefit from the training programs, nutritional consultations, and challenges offered at Faster Fitness."
+    },
+    {
+      "id": "jason-ellis",
+      "name": "Jason Ellis",
+      "initials": "JE",
+      "date": "8 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "results_transformation",
+        "accountability_consistency",
+        "challenge_nutrition",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "My wife and I participated in two group personal training programs before joining Faster Fitness through the Spring Transformation Challenge. We had moderate success with the other group personal training programs, but were not able to achieve our desired results. After only a few weeks at Faster Fitness, we were hooked and knew we found exactly what we were looking for in a group personal training program! Thanks to a comprehensive and detailed plan for fitness and nutrition success, friendly and motivating trainers, the right application of technology, and accountability, the team at Faster Fitness made it very easy to achieve our goals. All we had to do is show up for workouts and follow the nutrition principles! We look forward to continued success with the Faster Fitness team and family!"
+    },
+    {
+      "id": "susan",
+      "name": "Susan",
+      "initials": "SU",
+      "date": "4 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "accountability_consistency",
+        "classes_schedule",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "I've been going to FF for going on 4 years now. When I started, I was a blob of no accountability, a stroke waiting to happen. I needed a gym with specific class times, workouts that are thoughtfully put together for people with many different goals, and an accountability partner. This place is it. Marshall, David, Ali, Mack, Vanessa, and every coach that I've worked with there, are absolute tops of their game. They are supportive, personal, knowledgeable, and just downright good people. Whatever your fitness goals are, this fam will help you achieve them, and have a great time doing it...although you will be tired, probably, at least if you're old like me. Give this place a shot. Seriously. 3"
+    },
+    {
+      "id": "greg-williams",
+      "name": "Greg Williams",
+      "initials": "GW",
+      "date": "4 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "accountability_consistency",
+        "classes_schedule",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "I've been going to FF for going on 4 years now. When I started, I was a blob of no accountability, a stroke waiting to happen. I needed a gym with specific class times, workouts that are thoughtfully put together for people with many different goals, and an accountability partner. This place is it. Marshall, David, Ali, Mack, Vanessa, and every coach that I've worked with there, are absolute tops of their game. They are supportive, personal, knowledgeable, and just downright good people. Whatever your fitness goals are, this fam will help you achieve them, and have a great time doing it...although you will be tired, probably, at least if you're old like me. Give this place a shot. Seriously. 3"
+    },
+    {
+      "id": "abbie-harris",
+      "name": "Abbie Harris",
+      "initials": "AH",
+      "date": "10 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "results_transformation",
+        "accountability_consistency",
+        "challenge_nutrition",
+        "classes_schedule",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "I have never been a \"fit\" person, even when I was playing sports in high school and college. I've always hated traditional workouts - put me on a treadmill and I'm bored within a few minutes. In my search of finding SOMETHING that I'd stick with, I was referred to Faster Fitness by another instructor. I was hesitant to try it out but figured since they gave two weeks free to try it, I didn't have anything to lose. Almost a year later and I'm still there, so clearly they're doing something right. Gyms (and trainers) can sometimes be intimidating but that's not the case at Faster Fitness. Greg immediately made me feel like a regular (he's big on nicknames - everyone has one) and the small classes (max 12) he's always able to check my form and correct it, if needed, or push me to do more than I probably would on my own. Faster Fitness isn't just a gym/training center, though. Marshall has helped me figure out the best way to see the most progress (through diet, sleep, supplements, whatever else you might need) and is always available if I have questions or issues. Between the workout and nutritional help, I've seen a significant improvement in my other fitness areas and have gotten leaner and fitter and feel better about myself overall. I've done both the group personal training classes with Greg and the one-on-one personal training with Rob and cannot say enough positive things about either. Seriously. I've turned into one of those people who talks about FF all the time because I want all my friends to have similar, positive results."
+    },
+    {
+      "id": "erin-moore",
+      "name": "Erin Moore",
+      "initials": "EM",
+      "date": "11 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "results_transformation",
+        "accountability_consistency",
+        "classes_schedule"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Faster fitness is truly amazing! I have been physically active my whole life, and before joining faster fitness I was working out for an hour or more 5 days a week. Now, I work out at Faster Fitness only twice a week for 45 minutes, and I am in the best shape of my life (hands down)! Not only am I happier with my body, but I am healthier and feel better than ever. The group classes are perfect for me and my hectic schedule. Marshall and Brad are knowledgeable personal trainers and their obvious passion for what they do is beyond motivational. The results I have seen are unbelievable and I couldn't imagine wanting to work out anywhere else!"
+    },
+    {
+      "id": "ellen-foshage",
+      "name": "Ellen Foshage",
+      "initials": "EF",
+      "date": "6 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "challenge_nutrition",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "I've tried many gyms in the St. Louis area and am switching to Faster Fitness after participating in one of their challenges. Faster Fitness focuses on wellness rather than just a workout. They incorporate nutrition recommendations to help motivated individuals on their fitness journey. The instructors watch your form to help avoid any injuries. I'm looking forward to continuing with the Faster Fitness family."
+    },
+    {
+      "id": "morgan-kuepfert",
+      "name": "Morgan Kuepfert",
+      "initials": "MK",
+      "date": "8 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "results_transformation",
+        "challenge_nutrition"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Down almost 4% body fat in just 6 weeks!! Joining the Faster Fitness team was one of the best decisions I have made!! They provide everything you need to meet your fitness goals and then some!! I would strongly recommend Faster Fitness to ANYONE who is looking to make lifestyle changes. Shout out to Marshall, Greg, and David for continuing to motivate and encourage me and all the members of FF!!"
+    },
+    {
+      "id": "william-brawley",
+      "name": "William Brawley",
+      "initials": "WB",
+      "date": "4 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "challenge_nutrition",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "I’ve gone to Faster Fitness on and off for the past three years and it’s hands down the best gym in St Louis. The atmosphere, trainers and staff, and guidance they provide is the best value I have found. The workouts themselves are killer and they provide insights on nutrition, pre and post workout care, and general health. Cannot recommend enough."
+    },
+    {
+      "id": "elio-lopez",
+      "name": "Elio Lopez",
+      "initials": "EL",
+      "date": "7 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "challenge_nutrition",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Been with Faster Fitness since 3/2018. I cant describe the great success I had thanks to the coaches and the community. They generate a great atmosphere and will push you to success via their nutritional coaching/education along with their fitness regiments. 5 stars and many more if I was able to. Recommended!"
+    },
+    {
+      "id": "haley-franklin",
+      "name": "Haley Franklin",
+      "initials": "HF",
+      "date": "6 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "results_transformation",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Faster Fitness changed my outlook on exercising altogether! I never knew how much fun getting healthier could be! I love the group training. All of the trainers are super nice and ready to help you reach your goals."
+    },
+    {
+      "id": "antawn-henderson",
+      "name": "Antawn Henderson",
+      "initials": "AH",
+      "date": "3 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "community_culture",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Great place to workout I’ve never done a group workout until now and I love it. The staff is amazing and is always there to help you reach your goals. The other members are also friendly and help when you have questions. If you want to workout in a great environment I would definitely recommend checking out Faster Fitness!"
+    },
+    {
+      "id": "zac-farmer",
+      "name": "Zac Farmer",
+      "initials": "ZF",
+      "date": "6 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "accountability_consistency"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "I have been working out here for about 2 months now and it has been great! Really love the environment and the atmosphere! The trainers are knowledgeable in that they know what makes you tick personally and try to stick to that. They pretty much cater to every body type so that there is little distinction between who has what goals and the normal gym one up stereotype."
+    },
+    {
+      "id": "kailan-miller",
+      "name": "Kailan Miller",
+      "initials": "KM",
+      "date": "8 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "results_transformation",
+        "accountability_consistency",
+        "challenge_nutrition",
+        "classes_schedule"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Faster Fitness was everything I needed and more. There are so many things that make this program so incredible but I'll only list a few. First, the trainers; Marshall, Greg and David are amazing. They know what they're doing, they know why you're there, and all they want to do is help you get to where you want to be. They'll never look at you the wrong way when you don't know how to do something or when you have a question to ask.....they are literally there to help you and motivate you every single day. Beyond the trainers, the entire Faster Fitness family is amazing. Everyone is there for the same reasons, so everyone's there to help motivate each other to reach those goals and it's the most positive atmosphere which makes it so much better. The flexibility FF offers is what makes it so awesome too. It's so nice to be able to schedule my classes on a day to day basis through one simple app. Sometimes I can go in the morning, sometimes late evening, sometimes in the middle of the day....whatever works best for me works for them which is so great to have so many options. Last, I don't know how anyone couldn't succeed with this program. I did the six week challenge, and it was one of the best decisions I've ever made. Not only am I down in weight, 5.6 pounds down in JUST fat, and up in muscle....but that all happened in just 6 weeks!!!! The mean plans and nutrition coaching are just as awesome as the sessions and the sessions are NO JOKE! Happy to officially be a member so I can continue my fitness journey at Faster Fitness!"
+    },
+    {
+      "id": "cynthia-schwartz",
+      "name": "Cynthia Schwartz",
+      "initials": "CS",
+      "date": "11 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "results_transformation",
+        "challenge_nutrition",
+        "classes_schedule",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Over the last several years my weight remained about the same but I was losing muscle tone, my clothes no longer fit the same and it seemed no matter how much I ran or exercised, I was not seeing any improvement, and because of my over the hill age, I thought this was as good as it will get. Until I happened upon Faster Fitness. Marshall Ray taught me the importance of adding additional protein in my mostly plant based diet. Combining the strength training two times a week at Faster Fitness and the improvement to my diet, I have lost 6.2% of body fat! Faster Fitness has an instructor, Greg, who teaches each small group session. He DOES NOT do the exercises along with us,rather he visits each person, critiquing and encouraging while we perform each exercise. This is one of the features Faster Fitness offers which I think is most beneficial for a productive workout. The Faster Fitness crew are friendly, helpful and always available to answer your questions. If you are interested in working out and getting the results you want, I suggest visiting Faster Fitness. And as Greg reminds us after each workout, only a matter of days to swimsuit season, so come now and get results."
+    },
+    {
+      "id": "eric-noll",
+      "name": "Eric Noll",
+      "initials": "EN",
+      "date": "4 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "results_transformation",
+        "accountability_consistency",
+        "challenge_nutrition",
+        "classes_schedule",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "I love this gym, but it’s much more than that. If you’re like me and struggle to workout consistently on your own without a schedule, coach, or group of people who share similar goals, then this place is perfect for you. The group classes are fun (w/ good music), challenging, convenient, and offer a good variety of workouts (weights and metcon). It helps having their awesome coaches show you the exercises, teach good form, and push you through to the end. They also have meal plans that come with the memberships and outdoor workouts occasionally. It’s really easy to schedule and track your goals and output with the apps too. The workouts do move fast (hence the name) but become more comfortable and familiar after the first session or two and you can still move at your own pace if needed. The cost is obviously more than a standard gym, but you get what you pay for and more at FF and I would recommend it to anyone looking to get in shape quickly or just have a fun place to workout! Positive Communication, Quality 2"
+    },
+    {
+      "id": "kevin-eblimit",
+      "name": "Kevin Eblimit",
+      "initials": "KE",
+      "date": "4 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "I have been going here for almost 6 months now and I can say that this gym definitely delivers on its promises! The programs here are structured and the trainers show you how to properly do each exercise, as well as encouraging you to push yourself further than before. Faster Fitness has a great community and I always felt welcomed. Glad to have found this gem in STL! Positive Quality, Professionalism 2"
+    },
+    {
+      "id": "margie-mitchell",
+      "name": "Margie Mitchell",
+      "initials": "MM",
+      "date": "5 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "accountability_consistency",
+        "challenge_nutrition",
+        "classes_schedule",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "I joined Faster Fitness a few months ago. It was the ideal place to get me back on track with my nutrition and workouts. The classes are not crowded, making it easier for the trainers to assist as needed. The facility is spotless and adheres to all regulations in regards to Covid-19. I highly recommend it!!! Positive Professionalism"
+    },
+    {
+      "id": "jamie-forsyth",
+      "name": "Jamie Forsyth",
+      "initials": "JF",
+      "date": "12 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "results_transformation",
+        "classes_schedule",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Great staff and location. You'll notice something different when you first go to Faster Fitness, it's in an industrial area, but for good reason. This isn't your typical workout center, it's a strength building FACILITY! Pros: Awesome trainers who are dedicated to not only improving you - they are also constantly working on themselves and their programs. So you won't get the generic and universal treatment. Real one on one training. Even if you're in a group, you'll feel like Faster Fitness is primarily focusing on you. Cleanliness, sanitized equipment. Relationships, I've walked into other gyms and felt disconnected (which was okay at the time) but when you walk in and leave Faster Fitness, you don't just feel physically great, but emotionally. It feels like friendship, but it's really family. Cons: This isn't a health club or spa, they don't have steam rooms and Jacuzzi. When you walk through the door, it's work, enjoyable, challenging. They take their training seriously, so you won't find a TV to watch you favorite sitcoms on. Um... no TV's. You might hurt when you walk out the door, but fortunately, they know what they are doing and it will prove positive results."
+    },
+    {
+      "id": "josh-gould",
+      "name": "JOSH GOULD",
+      "initials": "JG",
+      "date": "6 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "challenge_nutrition",
+        "classes_schedule",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "I spent years joining crazy over priced gyms that I always ended up hating going to. Finally after hitting the heaviest I have been I kept hearing people talk about Faster Fitness- This is the first time I have LOVED going to a gym. The staff, the energy, the tools they give you to succeed are truly incredible. I did the 4 sessions a week package and use one of the meal companies they recommend. They make it as simple as they can for you - just do the work. I never thought I would enjoy getting up to be at a class a 6:50 in the morning but here I am and feeling great. They actually show you how to do the exercises as well which for me was huge. If you are looking for an incredible gym where you can finally feel supported, have all the tools to succeed and a staff that is actually excited to have you there- This is it."
+    },
+    {
+      "id": "carlos-villarreal",
+      "name": "carlos villarreal",
+      "initials": "CV",
+      "date": "2 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "community_culture",
+        "results_transformation",
+        "accountability_consistency"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Great place if you looking to get in shape, they promote healthy habits and set goal for you to become a better version of yourself . Their team a very knowledgeable and understand people limits and help you modify when needed . They are helping me on my journey to be healthy and happy. I highly recommend Faster Fitness"
+    },
+    {
+      "id": "matt-g",
+      "name": "Matt G",
+      "initials": "MG",
+      "date": "6 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "classes_schedule",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Being a former college athlete, I was missing the “team” feel atmosphere while working out. Faster Fitness has brought that back with people of all walks of life that lean on one another and make workouts fun and challenging again. The trainers are top notch and genuinely care about each person and take the time to actually get to know you. I highly recommend if you are stagnant and looking to shake things up give them a shot!"
+    },
+    {
+      "id": "zach-smalling",
+      "name": "Zach Smalling",
+      "initials": "ZS",
+      "date": "5 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "results_transformation",
+        "challenge_nutrition",
+        "classes_schedule",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Faster Fitness is the best in the business! They have effective programming, challenging classes, and amazing instructors. The group classes are fun and help to hold you accountable. They also focus on nutrition and help you create a plan that is tailored to your goals. If you want to see proven results, I highly recommend you check them out!"
+    },
+    {
+      "id": "jordan-julian",
+      "name": "Jordan Julian",
+      "initials": "JJ",
+      "date": "5 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "I started Faster Fitness back in November. I had heard great things about the gym but never tried it myself. I met Savanna Ray through social media and she invited me in. Immediately I felt welcome! Everyone was so nice, welcoming, and knowledgable. The workouts are tough. I love that it’s strength based and HIIT incorporated workouts. The movements that are done will actually help you with every day life. I’m not a huge cardio lover but my heart gets the exercise it needs at Faster. The workouts and program setup are something I haven’t seen in any other gym and I’ve tried several different places. But really the community that surrounds faster is amazing. Everyone there wants to better themselves in one way or another. It’s amazing to see everyone working hard to be better. I can’t recommend Faster Fitness enough! If you’re looking to level up, looking for something different, look no further! Plus they give the first session for free! Positive Communication, Quality, Professionalism"
+    },
+    {
+      "id": "molly-szweda",
+      "name": "Molly Szweda",
+      "initials": "MS",
+      "date": "7 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "challenge_nutrition",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "The quality and amount of information about overall health, wellness and training is astounding. I’ve been to many gyms and the owner and trainers provide the highest quality information about fitness, diet, and wellness. And they do it in a way that is fun, engaging, and easy to follow! They’ve created a wonderful non judgmental, inclusive environment that accepts everyone. After coming here once, I never went back to my old gym! I cannot emphasize the word quality enough. 5+"
+    },
+    {
+      "id": "gabbi-mcmahon",
+      "name": "Gabbi McMahon",
+      "initials": "GM",
+      "date": "4 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "classes_schedule",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "I can’t say enough good things about Faster! I have been working out here since September and look forward to every class I come to. The actual classes are challenging yet very enjoyable (no running!) and the coaches go above and beyond to encourage you to add more weight, fix your positioning, and just genuinely get to know you. I will be sad if I ever move one day because I won’t be able to find something that is as good as FF."
+    },
+    {
+      "id": "peter-birk",
+      "name": "Peter Birk",
+      "initials": "PB",
+      "date": "4 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "results_transformation",
+        "challenge_nutrition",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "The team at Faster Fitness is awesome! I’ve seen more results in 3 months as a member than I have after years of being a member at the local gym. Whether it’s your form, diet or discipline to get out of the house and do the workout that could use some help, Faster Fitness can make it happen! Positive Communication, Professionalism"
+    },
+    {
+      "id": "erica-slater",
+      "name": "Erica Slater",
+      "initials": "ES",
+      "date": "8 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "results_transformation",
+        "accountability_consistency",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "I've been with this gym and have seen their program evolve since 2012. This is the only workout I've ever stuck with consistently. I've always had a gym membership and once in awhile had a personal trainer, but I've never been in good shape until joining Faster Fitness. I even tried to quit once in 2013 when work got busy and I was met with encouragement and a gentle nudge that giving up at the gym was not going to help my ability to deal with work stress (I got another job instead). This is truly a supportive and fun environment to get healthy, not just work out. They have assessments and accountability worked into the program, so you can track your progress and set goals to stay on track. Seeing Greg, Marshall and David in the morning is a game changer!! I can't say enough about Greg and how much his personality and support add to the program. He's someone I want to work hard for! By nature, he's upbeat and positive and you can't manufacture that. These guys know what they're doing and if you're serious about working on your overall fitness and health, this is the place to do it!"
+    },
+    {
+      "id": "andy-atchison",
+      "name": "Andy Atchison",
+      "initials": "AA",
+      "date": "8 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "results_transformation",
+        "accountability_consistency",
+        "challenge_nutrition",
+        "classes_schedule"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "It’s not even fair to give Faster Fitness a 5 Star review. They are much more deserving of more stars Google. Anyone looking to jump start their health & fitness routine or maybe just take it up a notch should definitely check out FF. All of the trainers care about their clientele and give undivided attention to make sure you are getting results. They have figured out how to do something so well that many other gyms of this style fail at. At FF they are always coming up with new challenges and exciting ways to motivate their clientele. This is for everyone and I feel that anyone looking into any fitness options in the StL area should check them out first. Here are ⭐️⭐️⭐️⭐️⭐️ more stars to make this more accurate!"
+    },
+    {
+      "id": "heather-klefisch",
+      "name": "Heather Klefisch",
+      "initials": "HK",
+      "date": "a year ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "results_transformation",
+        "accountability_consistency",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "I have only been going to Faster Fitness for a month now and I’ve seen way more change in myself than I was with my at home workouts for the past year. I love the motivation and all the instructors have been great."
+    },
+    {
+      "id": "francis-mathenge",
+      "name": "Francis Mathenge",
+      "initials": "FM",
+      "date": "8 months ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Great and friendly work-out place. Trainers are very knowlegeable and always available to help to meet your goals!!!! Price assessment Great price Services Service not listed"
+    },
+    {
+      "id": "alexis-filip",
+      "name": "Alexis Filip",
+      "initials": "AF",
+      "date": "4 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "community_culture",
+        "classes_schedule",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Joining Faster Fitness was singlehandedly the best thing I could have done for my physical and mental health. Moving to a new state during Covid and then working from home - I was a shell of myself. Getting to workout and meet new people has been wonderful. The workouts feel quick - it’s 45 min of Tabata style sets. You have 3 different stations that each have their own set of workouts. Each day is different and you can set the weight or movements to be as easy or as difficult as you want them to be. I feel amazing after each class and I literally look forward to working out - even at 6am! I highly recommend giving Faster Fitness a try."
+    },
+    {
+      "id": "ali-church",
+      "name": "Ali Church",
+      "initials": "AC",
+      "date": "7 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "results_transformation",
+        "classes_schedule",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Faster Fitness is the ultimate gym & training experience!! Classes are personal, focused, and fun, and the trainers are attentive and non-judgmental. The gym atmosphere is encouraging and upbeat. Most importantly, this program produces results and trainers are excited to help their clients reach maximum potential!"
+    },
+    {
+      "id": "clay-riggins",
+      "name": "Clay Riggins",
+      "initials": "CR",
+      "date": "4 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "results_transformation",
+        "classes_schedule",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Wish I would have joined Faster Fitness sooner! Seriously go check it out. I'm moving away from STL after living here for 2 years and heard about this gym about 6 months of living just down the road. I can't say enough positive things about Faster Fitness. The team is very good at helping assess where you are at and giving guidance as you go through the group workouts. After a 1.5 years of being a member of FF, I felt more athletic, lost body fat and gained muscle through the workouts. The team: Each day the instructors do a great job of showing what movements you'll be doing, working alongside you to help you if you need assistance and motivating you to keep up the good work. Don't be surprised if the FF team greets you with a smile, asks how your day is going or what you've been up to. (The team truly cares about you!!) Workouts: The workouts are challenging, but still suitable for all ages. I truly enjoy the \"A\" (Monday/Tuesday) and \"B\" days (Thursday/Friday) when you emphasis building strength through lifts like squats, deadlifts and benchpress, while mixing in cardio exercises. If you're not ready for the strength exercises, the team also provides plenty of alternatives as well. If you are interested in giving this gym a try, it doesn't hurt to take advantage of one of their free drop in classes! Positive Communication, Quality, Professionalism"
+    },
+    {
+      "id": "michael-sparks",
+      "name": "Michael Sparks",
+      "initials": "MS",
+      "date": "8 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "results_transformation",
+        "accountability_consistency",
+        "challenge_nutrition",
+        "classes_schedule",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "My wife and I took part in the GPT Challenge. It was a 6 week fat loss challenge. My wife has been going to the gym for over a year and convinced me to join the challenge. I couldn't be happier with the program and of course, my results. The group classes are smaller and intense. The compact workout style works great for my schedule as well. All 3 coaches are great to work with and push each person for their best. If you are looking for a local gym that will challenge you for achieving your best results, I would recommend checking Faster Fitness out."
+    },
+    {
+      "id": "matt-myers",
+      "name": "Matt Myers",
+      "initials": "MM",
+      "date": "2 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "results_transformation",
+        "classes_schedule"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Faster Fitness, is one of the kindest and genuine group fitness organizations in the industry. Would recommend to any one shape or form as they take the time to provide modifications and help everyone reach their goals."
+    },
+    {
+      "id": "lelania-reavis",
+      "name": "Lelania Reavis",
+      "initials": "LR",
+      "date": "4 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "The team at Faster Fitness has been absolutely amazing! I have been going for about 2 months now and have never felt better! The coaches are supportive, positive and great with answering any of my questions! Positive Communication, Quality, Professionalism"
+    },
+    {
+      "id": "sarah-ragsdale",
+      "name": "Sarah Ragsdale",
+      "initials": "SR",
+      "date": "7 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "challenge_nutrition",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "I’ve been at this gym for over a year now and I can’t say enough good things about it! It’s always a challenging workout but one that I look forward to. The trainers are all super helpful, fun, and easy to talk to and always non-judgemental. They push you and actually care about your success and are so knowledgeable about fitness and nutrition. 5 stars are not enough!"
+    },
+    {
+      "id": "shauna-eckstadt",
+      "name": "Shauna Eckstadt",
+      "initials": "SE",
+      "date": "4 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "results_transformation",
+        "classes_schedule",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Informative & friendly staff who help those at all fitness levels! Love coming in everyday and getting greeted by Delaney. The workouts are laid out, beautifully built and they WORK! You see results very quickly and they are diverse. Highly recommend Faster Fitness!"
+    },
+    {
+      "id": "rachel-sullivan",
+      "name": "Rachel Sullivan",
+      "initials": "RS",
+      "date": "6 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "challenge_nutrition",
+        "classes_schedule",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "If your baffled about what to do at the gym this is the place to be. I started faster fitness in March 2019 with the idea of trying to find a gym that would help me learn what to do when it came time to working out and help with meal preparation. It’s July and I’m still here because they help you along the way to do things that work best for your body and I don’t have to spend 4 hours at the gym to get an effective workout. And they provide meal plans for you. Awesome love it"
+    },
+    {
+      "id": "chari-cook",
+      "name": "Chari Cook",
+      "initials": "CC",
+      "date": "6 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "challenge_nutrition",
+        "classes_schedule",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "If your baffled about what to do at the gym this is the place to be. I started faster fitness in March 2019 with the idea of trying to find a gym that would help me learn what to do when it came time to working out and help with meal preparation. It’s July and I’m still here because they help you along the way to do things that work best for your body and I don’t have to spend 4 hours at the gym to get an effective workout. And they provide meal plans for you. Awesome love it"
+    },
+    {
+      "id": "ann-boldt",
+      "name": "Ann Boldt",
+      "initials": "AB",
+      "date": "11 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "results_transformation",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "I LOVE Faster Fitness!! It is like no other workout or gym that I've ever experienced. You never get bored because your workout is 40 minutes and they change every month. I respect that FF is not a health spa, it's a gym. Plain and simple. Not only has Faster Fitness changed my body, it's changed my life."
+    },
+    {
+      "id": "scott-turk",
+      "name": "Scott Turk",
+      "initials": "ST",
+      "date": "12 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "results_transformation",
+        "accountability_consistency",
+        "challenge_nutrition",
+        "classes_schedule",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "This place is amazing and I recommend it to anyone who is serious about losing weight and getting healthy. Marshall and Brad really take the time to get to know each client and understand what your fitness goals and needs are. They access you each month to determine your limiting factors and change the workout to fit you. In addition, they offer nutritional plans and supplements to help you get on the right track. I was diagnosed with hypothyroid and with their help I was able to correct the problem and lose 42 pounds!"
+    },
+    {
+      "id": "claire-scott",
+      "name": "Claire Scott",
+      "initials": "CS",
+      "date": "12 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "results_transformation",
+        "accountability_consistency",
+        "challenge_nutrition",
+        "classes_schedule",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "This place is amazing and I recommend it to anyone who is serious about losing weight and getting healthy. Marshall and Brad really take the time to get to know each client and understand what your fitness goals and needs are. They access you each month to determine your limiting factors and change the workout to fit you. In addition, they offer nutritional plans and supplements to help you get on the right track. I was diagnosed with hypothyroid and with their help I was able to correct the problem and lose 42 pounds!"
+    },
+    {
+      "id": "lisa-campbell",
+      "name": "Lisa Campbell",
+      "initials": "LC",
+      "date": "7 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "results_transformation",
+        "challenge_nutrition",
+        "classes_schedule",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "If you think you have tried everything but still can’t lose that extra weight FF is the place to be. Get right into it with a transformation challenge with practically guaranteed results! The trainers are super hands on with their small class sizes. Small enough to not feel overwhelmed but large enough to not feel like everyone’s watching you. Their body fat/lean muscle InBody machine will tell you where your body is at the ideal point and the trainers will help get you there. Meal plans, personalized workouts in which they modify based on needs and amazing community feel. Beyond worth it for anyone to try!"
+    },
+    {
+      "id": "tara-swaringim",
+      "name": "Tara Swaringim",
+      "initials": "TS",
+      "date": "11 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "results_transformation",
+        "accountability_consistency",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Joining Faster Fitness a year ago was one of the best decisions I have made for my health, fitness, and overall lifestyle. Aside from receiving incredible results, there are many other characteristics that I love about this gym. Having someone constantly making sure I am doing the excersises correctly, with the right form and weight, assures me that I did quality work for my body each day I walk out their door. I never get bored with the workouts because of the change in routine each cycle. Marshall and Brad's expertise in corrective exercises have strengthened my knees incredibly; something I never thought possible after what my doctor told me post knee surgery. Lastly, for the sake of not writing a book on google, I have two fun, motivating, and very knowledgeable trainers who are willing to answer any questions I have each day I am at the gym. Thanks to them I am stronger than ever and feel fantastic!"
+    },
+    {
+      "id": "andrea-vajda",
+      "name": "Andrea vajda",
+      "initials": "AV",
+      "date": "8 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "results_transformation",
+        "accountability_consistency",
+        "challenge_nutrition",
+        "classes_schedule",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "I joined the Faster Fitness 6-week challenge to see what all the hype was about – my friend had nothing but great things to say about it, so I had to see for myself! Most of my adult life, cardio was my exercise of choice, and I was convinced nothing else could get me a better, more effective, all-body work out – Boy was I wrong! I found out through the challenge that I could get just as amazing (and sweaty!) of a work out doing the Faster Fitness training (if not better!) and in LESS time than it took with running/cardio. Now don’t get me wrong – Faster Fitness incorporates plenty of cardio related exercises, but I learned that I can do so much more than that, and I could see myself building strength and endurance with each passing week! The thing I love the most about the class is the constant change of workouts, to ensure nothing gets stale or repetitive. The workouts go by so fast. By the time you are just about out of breath, the workout is almost complete! The trainers are amazing to say the least – passionate, educated, friendly, and push us harder than we would push ourselves! The program is not based solely on the workout – a big part of it is encouraging healthy eating habits, which is another area that I had lacked understanding. I now eat what my body needs, and I have so much more natural energy and feel amazing! I am excited to say that I signed up for a membership with Faster Fitness and look forward to my 3-workouts a week!"
+    },
+    {
+      "id": "rachael-darnell",
+      "name": "Rachael Darnell",
+      "initials": "RD",
+      "date": "6 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "beginner_confidence",
+        "classes_schedule",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Faster Fitness truly is a fit fam! They pull you in, encourage your goals, and help you reach success! The classes are challenging, and the trainers are super helpful. You will not feel intimidated... Only supported!"
+    },
+    {
+      "id": "jeff-klund",
+      "name": "Jeff Klund",
+      "initials": "JK",
+      "date": "11 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "results_transformation",
+        "challenge_nutrition",
+        "classes_schedule",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "I went to Faster Fitness for a charity event they were having. It was a single Saturday workout and by the end of it I knew I had not been in the shape I had used to be. I used to be strictly 5-6 days a week with my workouts but I had been slipping. So the next week I came back to Marshall and signed up. Within 3 months I was not only back in shape I had been in before but i was the most lean that I had been since my wrestling days in high school. With Greg pushing me every training day and by changing the way I chose my meals, I was able to lose that unwanted fat and even gain a great amount of muscle in a short time. I had expressed in the begging that I was having back problems from my job. They had altered my program to strengthen my back and correct my posture. As a result my back couldn't feel better. I'm happy to say they really made a difference in my everyday life. Thanks guys!"
+    },
+    {
+      "id": "mallory-hatraf",
+      "name": "Mallory Hatraf",
+      "initials": "MH",
+      "date": "8 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "challenge_nutrition",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "I recently participated in a 6 week challenge at faster fitness and absolutely loved it! Greg, Marshall and David not only pushed me at every work out but also made every work out fun! Because of them I reached my goal and then some!! I am now a member and excited to continue my fitness journey with this amazing team! thanks, again."
+    },
+    {
+      "id": "alihelmer",
+      "name": "alihelmer",
+      "initials": "AL",
+      "date": "10 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "results_transformation",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": true,
+      "review": "If you're looking to mindlessly stare at a T.V. screen while squeezing in a cardio workout using a treadmill or other machine, Faster Fitness is not the place for you. If you're looking to work closely with top-notch trainers while"
+    },
+    {
+      "id": "matt-stark",
+      "name": "Matt Stark",
+      "initials": "MS",
+      "date": "5 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "challenge_nutrition",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": true,
+      "review": "I struggled to find a place that offers fitness and nutrition as a wholistic approach until Faster Fitness. I like that workouts are planned and I don’t have to think about anything other than working hard on the workout. The MyZone heart"
+    },
+    {
+      "id": "jami-jenks",
+      "name": "Jami Jenks",
+      "initials": "JJ",
+      "date": "8 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support"
+      ],
+      "truncatedFromGoogleCopy": true,
+      "review": "Before joining Faster Fitness back in February I was bouncing from place to place trying to find where I best fit for what I was wanting to do with out success then I was referred to Faster Fitness I went in met Marshall and Greg and found"
+    },
+    {
+      "id": "shannon-hill",
+      "name": "shannon Hill",
+      "initials": "SH",
+      "date": "8 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support"
+      ],
+      "truncatedFromGoogleCopy": true,
+      "review": "Before joining Faster Fitness back in February I was bouncing from place to place trying to find where I best fit for what I was wanting to do with out success then I was referred to Faster Fitness I went in met Marshall and Greg and found"
+    },
+    {
+      "id": "gina-oesterlei",
+      "name": "Gina Oesterlei",
+      "initials": "GO",
+      "date": "11 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "results_transformation"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "I have been training at Faster Fitness since its opening - I have learned so much as well as become a stronger, healthier person!! Marshall and Brad worked me through my ACL surgery and recovery and I have never felt stronger! As a figure skating coach I am able to take what I have learned through Marshall and Brad to help my young athletes! It's a great place to get strong and healthy!!!!"
+    },
+    {
+      "id": "michael-kelley",
+      "name": "Michael Kelley",
+      "initials": "MK",
+      "date": "8 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "results_transformation",
+        "classes_schedule",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "In the past, I have usually gotten really into workouts for a couple weeks, then lose interest. At Faster Fitness, the 45 minute group workouts are perfect for reaching your fitness goals in a fast, fun, efficient manner. These guys know what they are doing!"
+    },
+    {
+      "id": "terrence-westbrook",
+      "name": "Terrence Westbrook",
+      "initials": "TW",
+      "date": "10 months ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "results_transformation"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "It’s the best I made since I was in college the trainers are some of the best and they work with you on your payments I recommend Faster Fitness to anyone trying to get back in shape"
+    },
+    {
+      "id": "aimee-mudd",
+      "name": "Aimee Mudd",
+      "initials": "AM",
+      "date": "8 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "results_transformation",
+        "challenge_nutrition",
+        "classes_schedule",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Down 5% body fat in just 6 weeks without muscle loss! I have never seen such great results from any program. The trainers are awesome and the classes are challenging. I would recommend this gym to anyone wanting to see real results!"
+    },
+    {
+      "id": "teah-sparks",
+      "name": "Teah Sparks",
+      "initials": "TS",
+      "date": "9 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "results_transformation",
+        "accountability_consistency",
+        "beginner_confidence",
+        "challenge_nutrition",
+        "classes_schedule"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "I have been going to Faster Fitness for about 4 months now and I couldn't be happier the experience and the results. A little over a year ago I was in the best shape of my life...then I got pregnant. I actually gained more post partum than I did during the pregnancy. Either way I needed to get back into shape and after reading the reviews and meeting with Marshall, I decided to join. The group classes are convenient for my new mom schedule, which is a HUGE plus. With the help of the meal plans and class 3X per week I was able to lose 18.5lbs and 5.8% Body Fat...in just 12 weeks!!! Whether you are a seasoned athlete/trainer, someone's who has never picked up a weight or a new mom looking to lose the \"Baby Weight\", the guys at Faster Fitness will make you feel comfortable and confident in your journey. I still have a little ways to go but I know I'll get there soon with Faster Fitness. Thank You Marshall, Greg and Rob"
+    },
+    {
+      "id": "honey-s-child-boutique",
+      "name": "Honey's Child Boutique",
+      "initials": "HS",
+      "date": "3 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "results_transformation",
+        "classes_schedule",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "I’m the owner Of Honey’s Child Boutique and I joined Faster Fitness to get in shape, learn to eat better and have an overall healthy lifestyle! I never wanted to be skinny, but I did want to lose weight and feel better in my own skin. The trainers are phenomenal! Although you’re in a group setting, we still get personalized attention, alternative move options (bc baby I just can’t do burpees yet 😝) all in a high energy and fun atmosphere! The other attendees are like a family! They cheer you on and even help you if you get lost. To all of my St. Louis curvy cuties, this place is for us sis! I am back in my heels, I am looking better in my clothes and have so much more confidence and energy! Dave, Kyle, & Mykki are the best trainers you’ll ever have! Don’t be afraid to step out of your comfort zone friend! You will not regret it! - Letitia, Owner"
+    },
+    {
+      "id": "phyllis-cotton",
+      "name": "Phyllis Cotton",
+      "initials": "PC",
+      "date": "10 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "results_transformation"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "I have been going to Faster Fitness for a year and can't say enough good things about them! They are the best trainers I have ever worked with! I went to a different boot camp in 2010 where it was not run as professionally and actually injured myself. That was the beginning of my Piriformis Syndrome. Previous to coming to Faster Fitness I worked in an office where I literally sat 9 hrs a day! Some days I could barely walk when I got up from that chair. So, needless to say....I was a mess when I came to Faster Fitness. Now I have lost nearly 20 lbs and can do most of the exercises. I am still improving and plan to continue. THANK YOU, FASTER FITNESS...Marshall Ray, Greg Moore, and Rob Goliday...you are the best!!"
+    },
+    {
+      "id": "matthew-ruzicka",
+      "name": "Matthew Ruzicka",
+      "initials": "MR",
+      "date": "8 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "results_transformation",
+        "accountability_consistency",
+        "challenge_nutrition",
+        "classes_schedule",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "CLOSE TO 9% BODY FAT LOST, DOWN NEARLY 16 POUNDS during the Spring 6 Week Challenge through Faster Fitness......and still getting healthier because of the great habits encouraged through the awesome and motivating staff. The workouts have a great mixture of resistance training and cardio and will focus all parts of your body (many times during the same exercise). If you're going to the gym and lifting weights, strolling past the mirror, casually going to the elliptical machine or treadmill and trying to figure out why you're not getting the results you want.....stop doing that and JOIN FASTER FITNESS. If you want results, these folks will help you as much as you want them to (their door is always open) and you won't believe the results you will get. Thanks Faster Fitness!"
+    },
+    {
+      "id": "lindsay-simons",
+      "name": "Lindsay Simons",
+      "initials": "LS",
+      "date": "6 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "accountability_consistency",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "A great place to go! I have experienced kind staff who are willing to show me proper form for working out. The music and energy when you walk in is sure to get you pumped! It’s a challenging workout for sure - but one that will help you grow mentally and physically. The heart rate myzone tracking system and monthly body scans are really helpful tangible items to help keep me on track. The sense of community is awesome as well. 😊"
+    },
+    {
+      "id": "latwanya-davis",
+      "name": "LaTwanya Davis",
+      "initials": "LD",
+      "date": "a year ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "community_culture"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "I really enjoy coming here. The staff is friendly and patient. I like how you do different sets of exercises and timing works best for me due to work. I can get in before and feel energized for the rest of the day."
+    },
+    {
+      "id": "niki-zareh",
+      "name": "Niki Zareh",
+      "initials": "NZ",
+      "date": "10 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "results_transformation",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Let's start this off with the truth: #Amazeballs Faster Fitness helped me with my journey to get healthier and happier. All the trainers are AWESOME and they encouraged and pushed me to do things I thought I could never do or accomplish. If it was not for them, I wouldn't be where I am today in the path to a better lifestyle. They motivated me to go behind what I have been capable of achieving."
+    },
+    {
+      "id": "hilori-mitchell",
+      "name": "Hilori Mitchell",
+      "initials": "HM",
+      "date": "a year ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "general_praise"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Just taking a moment to BRAG on Leilani & Matt! I developed a cramp on my side…let her know…she gave me the perfect stretch to help it…it went away…IMMEDIATELY! My lower back on both sides were hurting…explained it to her…BAM…she once again gave me the PERFECT stretch to help it and it went away with once I did it! MATT does a great job as well! He’s ALWAYS so helpful with modifying exercises for me!"
+    },
+    {
+      "id": "kelsey-r",
+      "name": "Kelsey R",
+      "initials": "KR",
+      "date": "2 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "classes_schedule"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Waited over 17 minutes past the appointment time to speak with their trainer. 5-10 mins late for an appointment, I can understand, but this was blatantly disrespectful of my time. There are better gyms as far as respect, cleanliness, look, smell, etc."
+    },
+    {
+      "id": "cynthia-wright",
+      "name": "Cynthia Wright",
+      "initials": "CW",
+      "date": "4 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "results_transformation",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "This place is AWESOME! The staff are fun, professional and personable! I really wanted to make an investment in myself and was looking for something that would give me results and Faster Fitness delivered! I actually met my weight loss goals waaayyyyy FASTER than I actually anticipated!!!! The honest truth! If you're \"really\" looking for RESULTS this is THE PLACE!!! Positive Communication, Quality, Professionalism"
+    },
+    {
+      "id": "sn-daisy",
+      "name": "Sn Daisy",
+      "initials": "SD",
+      "date": "6 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "results_transformation",
+        "accountability_consistency",
+        "challenge_nutrition",
+        "classes_schedule",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "This is hands down the most motivational gym I've ever been to and I've been \"gymming\" on and off for the last 15 years. I've tried it all but each time I get bored or just lose motivation after a while. This gym is different. The workouts are quick bursts of 45min and they're fun, different each time, high paced & VERY challenging. You'll learn to love the 'push'. When you think you have nothing left to give, somehow these incredible coaches draw more out of you that you didn't know you had. Personally what's worked for me is that they keep you accountable. If you sign up for a slot, you have to go.. cancellation can be done within 4hrs of the class and if you do it after that, you get a txt saying 'we understand but next time cancel before 4hrs' and you'll lose that session for the week. It's not the end of the world but it's enough to keep you accountable. So if you get close to workout time and you think 'eehhh i'm exhausted' or 'I just need to finish this thing at work'... tough.. you're getting your sneakers on and pushing through those walls giving it your everything and feeling proud and satisfied on the other side of it. They have meal plans which admittedly I haven't got fully into yet but that's the next step on my healthy lifestyle journey. If you're struggling with motivation and need a change in your workouts, I'd at the very least, try this gym out :)"
+    },
+    {
+      "id": "grace-deitzler",
+      "name": "Grace Deitzler",
+      "initials": "GD",
+      "date": "8 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "results_transformation",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "The coaches really know their stuff- I've never been pushed harder or seen better results. The gym itself is inviting and I love the fact that there are no mirrors- it's easier to focus. Faster Fitness is awesome!!"
+    },
+    {
+      "id": "savanna-ray",
+      "name": "Savanna Ray",
+      "initials": "SR",
+      "date": "12 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "results_transformation",
+        "classes_schedule",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Coming to FasterFitness, I knew Marshall Ray was known for unbelievable weight loss testimonials. My main goals were very specific and borderline picky. I wanted to strengthen my knees (due to previous injuries), gain a reasonable amount of muscle to \"tone\" everything , improve my posture, and lose a small amount of body fat (which was the last thing keeping me from looking how I wanted to). From the first day, my program was tailored to meet every goal I had and more. The trainers were so knowledgable they gained my complete trust on Day 1. The program designer is a world class strength coach and is internationally certified. The trainers learn with functional medicine doctors, consult with physical therapists, and base all supplement recommendations off of research based evidence advised by a PharmD. I could not believe the value of this gym and how much knowledge the program designer had from world class strength training to adequately treating hypothyroidism. Faster Fitness is the real deal! I would not consider training anywhere else."
+    },
+    {
+      "id": "david-williams",
+      "name": "David Williams",
+      "initials": "DW",
+      "date": "4 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "accountability_consistency",
+        "classes_schedule",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "I joined this particular gym because I wanted a place with set schedule. That meant I had to be there at a certain time. I also wanted something with a defined program. Not just a room of weights and machines that I wonder around and checky phone. The classes are around 45 min. A good mix of strength and cardio. I leave soaked every time. They deliver on the promise. Positive Professionalism"
+    },
+    {
+      "id": "nanette-boileau",
+      "name": "Nanette Boileau",
+      "initials": "NB",
+      "date": "12 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Faster Fitness totally works! Marshall and Brad are great trainers and are so knowledgeable about their field. I highly recommend Faster Fitness for anyone who is interested in reaching their goals in health and fitness!"
+    },
+    {
+      "id": "frank-hopper",
+      "name": "Frank Hopper",
+      "initials": "FH",
+      "date": "7 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "community_culture",
+        "classes_schedule"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "I love this gym! The staff cares about the athletes and the St. Louis community. I can always count on them for a great work out and a good time. If you are looking for a gym to help you reach your goals, you found it."
+    },
+    {
+      "id": "loran-chick",
+      "name": "Loran Chick",
+      "initials": "LC",
+      "date": "12 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "challenge_nutrition",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "I've been working out 2 days a week at Faster Fitness since September and am down 5 inches on my waist. I believe in these workouts by Marshall and Brad and with their suggestions for diet and supplements it works even better. Thanks Marshall and Brad!!"
+    },
+    {
+      "id": "leslie-parker",
+      "name": "Leslie Parker",
+      "initials": "LP",
+      "date": "8 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "results_transformation",
+        "classes_schedule",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Highly recommend this gym ! I've tried many gyms/workouts/ regimens with little to no results . These guys know how to not only get you the results you want but also motivate you in the process ! Specials thanks to all you guys do! Even with a 45 minute commute and dealing with traffic for me it will be worth it to continue this journey with the Ff family!"
+    },
+    {
+      "id": "patreka-jones",
+      "name": "Patreka Jones",
+      "initials": "PJ",
+      "date": "5 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "I love the group setting. It helps keep me motivated. The workouts are challenging and are switched up after so many weeks. The trainers are awesome and give me that boost to push through the workout. Positive Quality, Professionalism"
+    },
+    {
+      "id": "morgan-faulkner",
+      "name": "Morgan Faulkner",
+      "initials": "MF",
+      "date": "11 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "results_transformation",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "After moving to St. Louis from NYC, one of my greatest fears was not being able to find a facility like my former gym. Faster fitness is now my STL fitness home. The gentlemen who run the place are incredibly passionate, knowledgeable and always happy to answer questions. They strive for a strong sense of belonging and courage for each one of their members, making sure that everyone knows it is TRULY a judgement-free zone with constant emphasis on doing YOUR best, whatever that is for you on any given day. It is PERSONALIZED (based on strength, flexibility, injury etc) no muss, no fuss, pat yourself on the back work, and it WORKS. I have biceps now :-) My only complaint is that they are not located in my back yard. YOU DESERVE TO FEEL GOOD!!! GO CHECK THEM OUT!!!!"
+    },
+    {
+      "id": "hannah-hartman",
+      "name": "Hannah Hartman",
+      "initials": "HH",
+      "date": "7 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "My favorite gym in St. Louis. All of the trainers are so kind and helpful plus the community here is one of a kind. I even got my fiancé to start going with me and now he’s even more addicted than I am."
+    },
+    {
+      "id": "tyler-hannsz",
+      "name": "Tyler Hannsz",
+      "initials": "TH",
+      "date": "5 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "accountability_consistency",
+        "challenge_nutrition",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "As someone who has never committed to my nutrition or fitness long term, I have to say that FF was the solution. The staff are fun to be around, empower you to reach your goals, and push you. I feel better than I ever have and have never been so grateful to have my butt kicked. Positive Communication, Quality, Professionalism"
+    },
+    {
+      "id": "dave-g",
+      "name": "Dave G",
+      "initials": "DG",
+      "date": "2 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "results_transformation"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "We tried a couple other places, and they didn’t quite rise to FF. This is a great group fitness facility! If you want to get into shape this is the place to go! See real results!"
+    },
+    {
+      "id": "theresa-sherfy",
+      "name": "Theresa Sherfy",
+      "initials": "TS",
+      "date": "a year ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "All of the instructors are very kind and motivating. They are extremely accommodating and want you to succeed!"
+    },
+    {
+      "id": "martin-stephenitch",
+      "name": "martin stephenitch",
+      "initials": "MS",
+      "date": "6 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "challenge_nutrition",
+        "classes_schedule"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Group exercise that isn't intimidating. Every trainer there is knowledgeable and friendly. If there is an exercise during the class that is a challenge for you they will find one that will work for you. The trainers are great motivators."
+    },
+    {
+      "id": "cara-eplin",
+      "name": "Cara Eplin",
+      "initials": "CE",
+      "date": "6 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Not only is the workout program amazing, so is the community. No one feels like a newbie. Everyone is so welcoming and encouraging. Definitely a family feel. You feel like you belong as soon as you walk in the door."
+    },
+    {
+      "id": "ashley-mirkes",
+      "name": "Ashley Mirkes",
+      "initials": "AM",
+      "date": "6 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "results_transformation",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "I love this place!! The workouts are amazing and the trainers are super supportive. If you want to see results, definitely give Faster Fitness a try."
+    },
+    {
+      "id": "lisa-turtle",
+      "name": "Lisa Turtle",
+      "initials": "LT",
+      "date": "6 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "results_transformation",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "I love this place!! The workouts are amazing and the trainers are super supportive. If you want to see results, definitely give Faster Fitness a try."
+    },
+    {
+      "id": "janine-scruton",
+      "name": "Janine Scruton",
+      "initials": "JS",
+      "date": "a year ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "community_culture",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "I really enjoy this establishment! Love the intensity of the workouts and friendly staff. Would recommend to family amd friends!"
+    },
+    {
+      "id": "brittany-williams",
+      "name": "Brittany Williams",
+      "initials": "BW",
+      "date": "6 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "beginner_confidence"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Faster has the greatest coaches and a warm welcoming environment! No matter if your a pro athlete or a beginner this is the place for you, it’s Hands down the best gym in town!"
+    },
+    {
+      "id": "marina-g",
+      "name": "Marina G",
+      "initials": "MG",
+      "date": "4 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "beginner_confidence",
+        "classes_schedule"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Great gym and classes. Always very clean, trainers are very helpful, attentive, and nice. Highly recommend even for beginners like me!"
+    },
+    {
+      "id": "turner-brown",
+      "name": "Turner Brown",
+      "initials": "TB",
+      "date": "2 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Awesome place, great mix of strength and cardio. Only group fitness place I’ve found that has squat racks for squats, dead lifts, bench, etc."
+    },
+    {
+      "id": "payton-everett",
+      "name": "Payton Everett",
+      "initials": "PE",
+      "date": "8 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "results_transformation",
+        "challenge_nutrition",
+        "classes_schedule"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "I participated in FF's 6 week challenge and got amazing results. The small classes make it so easy for the trainers to give you hands on help."
+    },
+    {
+      "id": "infinite-media-solutionz",
+      "name": "Infinite Media Solutionz",
+      "initials": "IM",
+      "date": "11 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "results_transformation"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "I was very pleased when i went to Faster Fitness. I received the up most attention and the training kicked my butt, I'm excited to start going to see my transformation."
+    },
+    {
+      "id": "sean-mckinney",
+      "name": "Sean McKinney",
+      "initials": "SM",
+      "date": "a year ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Great place to workout, and great staff as well. Very helpful in assisting with fitness goals."
+    },
+    {
+      "id": "rob-annis",
+      "name": "rob Annis",
+      "initials": "RA",
+      "date": "6 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "community_culture",
+        "beginner_confidence",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Great Place! The staff is exceedingly friendly and you do not feel intimidated working out there. They keep workouts interesting and fun."
+    },
+    {
+      "id": "alex-haddad",
+      "name": "Alex Haddad",
+      "initials": "AH",
+      "date": "7 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "accountability_consistency",
+        "challenge_nutrition",
+        "classes_schedule",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "This place is amazing, the staff all greets you by name when you walk in every time, the workouts are fun, high energy, and the meal plans and challenges they provide make it easy to stay on track with your goals!!"
+    },
+    {
+      "id": "kaitlyn-george",
+      "name": "Kaitlyn George",
+      "initials": "KG",
+      "date": "a year ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Fun atmosphere, great coaches, lots of equipment, great variety of workouts!"
+    },
+    {
+      "id": "marty-headrick",
+      "name": "Marty Headrick",
+      "initials": "MH",
+      "date": "3 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "results_transformation"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "If you're looking for a gym that's going to get you the results you want...here it is. The trainers and staff are the best."
+    },
+    {
+      "id": "josh-matt",
+      "name": "Josh & Matt",
+      "initials": "JM",
+      "date": "2 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Clean facility! Great Coaches and staff! Would highly recommend Faster Fitness!"
+    },
+    {
+      "id": "daniel-farrell",
+      "name": "Daniel Farrell",
+      "initials": "DF",
+      "date": "6 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Great environment, every trainer is caring and helpful for the workouts. It’s a lot of fun and everyone pushes each other."
+    },
+    {
+      "id": "aisha-buxcel",
+      "name": "aisha buxcel",
+      "initials": "AB",
+      "date": "6 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "results_transformation",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Every single work out is upbeat fun and HARD! After two weeks i’m already seeing results, 11/10 recommend!"
+    },
+    {
+      "id": "satique-weathers",
+      "name": "Satique Weathers",
+      "initials": "SW",
+      "date": "3 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "results_transformation",
+        "accountability_consistency",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "I like the environment, coaches, music, exercises/routines.. The staff is friendly And is approachable.... good place to get in shape at.."
+    },
+    {
+      "id": "jessica-kontz",
+      "name": "Jessica Kontz",
+      "initials": "JK",
+      "date": "a year ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "classes_schedule"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "It’s an excellent place for working out. Nice staff and exercise classesz"
+    },
+    {
+      "id": "yull-alonso-quesada",
+      "name": "Yull Alonso Quesada",
+      "initials": "YA",
+      "date": "a year ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "classes_schedule"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "It’s an excellent place for working out. Nice staff and exercise classesz"
+    },
+    {
+      "id": "cem-classic",
+      "name": "CEM Classic",
+      "initials": "CC",
+      "date": "3 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "community_culture"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "The owners and team are very friendly and helpful. I love the way the sessions are set up!"
+    },
+    {
+      "id": "se",
+      "name": "SE",
+      "initials": "SE",
+      "date": "5 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "results_transformation",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Wonderful team! Workouts are always fun and produce results faster than I was expecting."
+    },
+    {
+      "id": "kelly-yacoub",
+      "name": "Kelly Yacoub",
+      "initials": "KY",
+      "date": "3 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "community_culture"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Great work out great people... So far so good. Let's go!"
+    },
+    {
+      "id": "imani-robinson",
+      "name": "Imani Robinson",
+      "initials": "IR",
+      "date": "3 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "community_culture"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Great work out great people... So far so good. Let's go!"
+    },
+    {
+      "id": "arc",
+      "name": "arc",
+      "initials": "AR",
+      "date": "2 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Friendly staff, highly motivating trainers and a challenging workout"
+    },
+    {
+      "id": "lisa-t",
+      "name": "Lisa T",
+      "initials": "LT",
+      "date": "3 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "classes_schedule",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Great place to workout. Love the classes and staff!"
+    },
+    {
+      "id": "melody-lashmar",
+      "name": "Melody Lashmar",
+      "initials": "ML",
+      "date": "a year ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Incredible workouts with an amazing team."
+    },
+    {
+      "id": "april-pikul",
+      "name": "April Pikul",
+      "initials": "AP",
+      "date": "4 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Great coaches, awesome atmosphere! Positive Quality"
+    },
+    {
+      "id": "paul-beck",
+      "name": "Paul Beck",
+      "initials": "PB",
+      "date": "6 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Great atmosphere and good experience all around. Positive Professionalis…"
+    },
+    {
+      "id": "valerie-hibray",
+      "name": "Valerie Hibray",
+      "initials": "VH",
+      "date": "8 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "general_praise"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Best decision joining this gym"
+    },
+    {
+      "id": "eric-otto",
+      "name": "Eric Otto",
+      "initials": "EO",
+      "date": "5 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "The best group workouts in town."
+    },
+    {
+      "id": "derrek-gummersheimer",
+      "name": "Derrek Gummersheimer",
+      "initials": "DG",
+      "date": "3 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "classes_schedule",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Great place for class workouts"
+    },
+    {
+      "id": "mark-davenport",
+      "name": "mark davenport",
+      "initials": "MD",
+      "date": "6 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "general_praise"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Great program"
+    },
+    {
+      "id": "cory-hutchcraft",
+      "name": "Cory Hutchcraft",
+      "initials": "CH",
+      "date": "4 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Friendly staff! Positive Quality, Professionalism"
+    },
+    {
+      "id": "meho-gatackic",
+      "name": "Meho Gatackic",
+      "initials": "MG",
+      "date": "3 weeks ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "general_praise"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "New Everyday you get better! Love faster fitness!"
+    },
+    {
+      "id": "denise-l",
+      "name": "Denise L",
+      "initials": "DL",
+      "date": "a month ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture",
+        "challenge_nutrition",
+        "workout_energy"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "This place is so amazing!! I've been coming here for almost a month now and I have enjoyed every moment. All the coaches there are Wonderful, they definitely motivate, encourage and are very nice and supportive. Love the nutrition plans, all the workouts are great and even the people that go there is awesome. It's an amazing community and place to go. I will continue to keep on going! Price assessment Great price Services Personal training"
+    },
+    {
+      "id": "dan-ladd",
+      "name": "Dan Ladd",
+      "initials": "DL",
+      "date": "4 years ago",
+      "source": "Google review",
+      "profilePhoto": "",
+      "rating": 5,
+      "sentiment": "positive",
+      "categories": [
+        "coaching_support",
+        "community_culture"
+      ],
+      "truncatedFromGoogleCopy": false,
+      "review": "Positive Communication, Quality, Professionalism"
+    }
+  ]
+}
