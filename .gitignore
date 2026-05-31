@@ -4,3 +4,4 @@ node_modules/
 preview-*.png
 mobile-review-*.png
 mobile-review-metrics.json
+.vercel
